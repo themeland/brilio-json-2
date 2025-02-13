@@ -1,4 +1,53 @@
 {
+	"awards": {
+		"title": "Awards & Recognition",
+		"items": [
+			{
+			"title": "Best User Experience",
+			"year": "2021",
+			"award": "Webby Awards",
+			"link": "/about"
+			},
+			{
+			"title": "Honorable Mention",
+			"year": "2022",
+			"award": "Awwwards",
+			"link": "/about"
+			},
+			{
+			"title": "Best UI Design",
+			"year": "2023",
+			"award": "CSS Design Awards",
+			"link": "/about"
+			},
+			{
+			"title": "Awards of The Year",
+			"year": "2025",
+			"award": "Honor of Awards",
+			"link": "/about"
+			}
+		]
+	},
+	"awardstwo": {
+		"title": "Awards & Recognition",
+		"items": [
+		{
+			"image": "/img/award-1.png",
+			"description": "Recognized for the outstanding UX design of the e-commerce platform, reflecting my commitment to user-centered design.",
+			"link": "/about"
+		},
+		{
+			"image": "/img/award-2.png",
+			"description": "Honorable mention for the innovative design and functionality of the website, highlighting my ability to blend creativity.",
+			"link": "/about"
+		},
+		{
+			"image": "/img/award-3.png",
+			"description": "Awarded for the sleek and intuitive UI of personal portfolio website, showcasing my skill in creating aesthetics.",
+			"link": "/about"
+		}
+		]
+	},
 	"blog": [
 		{
 		"id": 1,
